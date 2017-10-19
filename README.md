@@ -1,2 +1,2 @@
-# PytSel
+# PythonSelenium
 practicing automatization
