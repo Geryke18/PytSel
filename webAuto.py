@@ -47,3 +47,6 @@ def fbLog():
     login.click()
 
 fbLog()
+
+#make screenshot
+browser.save_screenshot("screenshot2.png")
